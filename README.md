@@ -1,5 +1,5 @@
 # Please find my all blog links below
-1). DNS Record Types Explained :-- https://blogarticles-on-networking-concepts.hashnode.dev/dns-record-types-explained?showSharer=true
+1). DNS Record Types Explained :-- https://records-of-dns.hashnode.dev/dns-record-types-explained
 
 2). Getting Started with cURL :-- https://blogarticles-on-networking-concepts.hashnode.dev/getting-started-with-curl?t=1769446347047
 
