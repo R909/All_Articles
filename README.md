@@ -9,7 +9,7 @@
 
 5). Understanding Network Devices:-- https://blogarticles-on-networking-concepts.hashnode.dev/understanding-network-devices?t=1769534757411
 
-6). TCP vs UDP: When to Use What, and How TCP Relates to HTTP :- https://blogarticles-on-networking-concepts.hashnode.dev/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http?showSharer=true
+6). TCP vs UDP: When to Use What, and How TCP Relates to HTTP :- https://tcpupd.hashnode.dev/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http?showSharer=true
 
 7). TCP Working: 3-Way Handshake & Reliable Communication:- https://blogarticles-on-networking-concepts.hashnode.dev/tcp-working-3-way-handshake-and-reliable-communication?showSharer=true
 
